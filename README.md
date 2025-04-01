@@ -14,3 +14,8 @@ Step-by-step instructions:
 ## Additional Information
 
 Any extra important notes, dependencies, or configurations needed.
+
+## License Choice
+
+This project uses the MIT license because it's simple, permissive, and widely used for educational and open-source projects, allowing others to freely use and modify the code.
+
